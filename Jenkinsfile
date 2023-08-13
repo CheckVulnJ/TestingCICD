@@ -10,6 +10,7 @@ pipeline {
                   ls -la
                   ls -l
                   ls -a
+                  ls -la
                   '''
             }
                 //script {
